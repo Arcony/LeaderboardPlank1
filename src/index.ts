@@ -534,7 +534,7 @@ const notifications: any[] = [
         "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
         "image": "profile/lwssukbpqvyirdnnuleo",
         "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
-        "data": {
+        "datas": {
             "category": "items",
             "slug": "wood_plank",
             "quantity": 30
@@ -555,7 +555,7 @@ const notifications: any[] = [
         "text": "Roots used your sawmill to cut. You received 3 wood_plank.",
         "image": "profile/lwssukbpqvyirdnnuleo",
         "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
-        "data": {
+        "datas": {
             "category": "items",
             "slug": "wood_plank",
             "quantity": 3
@@ -576,7 +576,7 @@ const notifications: any[] = [
         "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
         "image": "profile/lwssukbpqvyirdnnuleo",
         "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
-        "data": {
+        "datas": {
             "category": "items",
             "slug": "wood_plank",
             "quantity": 30
@@ -597,7 +597,7 @@ const notifications: any[] = [
         "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
         "image": "profile/lwssukbpqvyirdnnuleo",
         "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
-        "data": {
+        "datas": {
             "category": "items",
             "slug": "wood_plank",
             "quantity": 30
@@ -618,7 +618,7 @@ const notifications: any[] = [
         "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
         "image": "profile/lwssukbpqvyirdnnuleo",
         "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
-        "data": {
+        "datas": {
             "category": "items",
             "slug": "wood_plank",
             "quantity": 30
@@ -639,7 +639,7 @@ const notifications: any[] = [
         "text": "Roots used your sawmill to cut. You received 3 wood_plank.",
         "image": "profile/lwssukbpqvyirdnnuleo",
         "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
-        "data": {
+        "datas": {
             "category": "items",
             "slug": "wood_plank",
             "quantity": 3
@@ -648,8 +648,7 @@ const notifications: any[] = [
         "updatedAt": "2024-08-20T18:31:48.415Z",
         "__v": 0,
         "read": false
-    }
-];
+    }];
 // Définition de l'interface Notification
 interface Notification {
     _id: string;
