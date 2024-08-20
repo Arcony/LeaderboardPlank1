@@ -1089,7 +1089,174 @@ const notifications: any[] = [
         "updatedAt": "2024-08-20T21:00:05.923Z",
         "__v": 0,
         "read": false
-    },];
+    },{
+        "_id": "66c517b2addbec9d2aaf6008",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:24:50.656Z",
+        "updatedAt": "2024-08-20T22:24:50.656Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c517afaddbec9d2aaf5e3f",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:24:47.890Z",
+        "updatedAt": "2024-08-20T22:24:47.890Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c51769addbec9d2aaf3c3c",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:23:37.340Z",
+        "updatedAt": "2024-08-20T22:23:37.340Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c51763addbec9d2aaf3a19",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:23:31.206Z",
+        "updatedAt": "2024-08-20T22:23:31.206Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5175daddbec9d2aaf389e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:23:25.432Z",
+        "updatedAt": "2024-08-20T22:23:25.432Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c51753addbec9d2aaf32c3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:23:15.105Z",
+        "updatedAt": "2024-08-20T22:23:15.105Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5174faddbec9d2aaf2f6d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:23:11.965Z",
+        "updatedAt": "2024-08-20T22:23:11.965Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c51747addbec9d2aaf28f3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T22:23:03.690Z",
+        "updatedAt": "2024-08-20T22:23:03.690Z",
+        "__v": 0,
+        "read": false
+    }];
 // Définition de l'interface Notification
 interface Notification {
     _id: string;
