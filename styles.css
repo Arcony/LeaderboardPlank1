@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#inventory-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#inventory-table th, #inventory-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#inventory-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#inventory-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#inventory-table tr:hover {
+    background-color: #ddd;
+}
+
+.rank-top {
+    font-weight: bold;
+    color: #d4af37; /* Couleur dorée pour le top 3 */
+}
+
+.rank-second {
+    font-weight: bold;
+    color: #c0c0c0; /* Couleur argentée pour la deuxième place */
+}
+
+.rank-third {
+    font-weight: bold;
+    color: #cd7f32; /* Couleur bronze pour la troisième place */
+}
