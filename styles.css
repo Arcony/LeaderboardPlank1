@@ -54,3 +54,7 @@ h1 {
     font-weight: bold;
     color: #cd7f32; /* Couleur bronze pour la troisième place */
 }
+#inventory-table td img {
+    display: block;
+    margin: 0 auto;
+}

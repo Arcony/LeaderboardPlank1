@@ -721,7 +721,19 @@ function aggregateWoodPlanks(notifications: Notification[]): AggregatedNotificat
     return resultArray.sort((a, b) => b.totalQuantity - a.totalQuantity);
 }
 
-// Fonction pour rendre les données agrégées dans le tableau HTML
+// Fonction pour déterminer la récompense potentielle basée sur le rang
+function getRewardImage(rank: number): string {
+    if (rank === 0) {
+        return 'top1.png'; // Saphir pour les deux premiers
+    } else if (rank === 1) {
+        return 'saphir.png'; // Rubis pour le troisième
+    } else if (rank === 2) {
+        return 'ruby.png'; // Rubis pour le troisième
+    }
+    return ''; // Pas de récompense pour les autres
+}
+
+// Fonction pour rendre les données agrégées dans le tableau HTML avec une colonne de récompense
 function renderAggregatedWoodPlanks(aggregated: AggregatedNotification[]) {
     const tbody = document.getElementById('inventory-body');
     if (!tbody) return;
@@ -732,12 +744,17 @@ function renderAggregatedWoodPlanks(aggregated: AggregatedNotification[]) {
         const rankClass = index === 0 ? 'rank-top' :
                           index === 1 ? 'rank-second' :
                           index === 2 ? 'rank-third' : '';
+        
+        const rewardImage = getRewardImage(index);
 
         const row = document.createElement('tr');
         row.innerHTML = `
             <td class="${rankClass}">${index + 1}</td>
             <td class="${rankClass}">${notification.actor}</td>
             <td class="${rankClass}">${notification.totalQuantity}</td>
+            <td class="${rankClass}">
+                ${rewardImage ? `<img src="img/${rewardImage}" width="32">` : ''}
+            </td>
         `;
         tbody.appendChild(row);
     });

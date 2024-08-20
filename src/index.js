@@ -687,7 +687,20 @@ function aggregateWoodPlanks(notifications) {
     }
     return resultArray.sort(function (a, b) { return b.totalQuantity - a.totalQuantity; });
 }
-// Fonction pour rendre les données agrégées dans le tableau HTML
+// Fonction pour déterminer la récompense potentielle basée sur le rang
+function getRewardImage(rank) {
+    if (rank === 0) {
+        return 'top1.png'; // Saphir pour les deux premiers
+    }
+    else if (rank === 1) {
+        return 'saphir.png'; // Rubis pour le troisième
+    }
+    else if (rank === 2) {
+        return 'ruby.png'; // Rubis pour le troisième
+    }
+    return ''; // Pas de récompense pour les autres
+}
+// Fonction pour rendre les données agrégées dans le tableau HTML avec une colonne de récompense
 function renderAggregatedWoodPlanks(aggregated) {
     var tbody = document.getElementById('inventory-body');
     if (!tbody)
@@ -697,8 +710,9 @@ function renderAggregatedWoodPlanks(aggregated) {
         var rankClass = index === 0 ? 'rank-top' :
             index === 1 ? 'rank-second' :
                 index === 2 ? 'rank-third' : '';
+        var rewardImage = getRewardImage(index);
         var row = document.createElement('tr');
-        row.innerHTML = "\n            <td class=\"".concat(rankClass, "\">").concat(index + 1, "</td>\n            <td class=\"").concat(rankClass, "\">").concat(notification.actor, "</td>\n            <td class=\"").concat(rankClass, "\">").concat(notification.totalQuantity, "</td>\n        ");
+        row.innerHTML = "\n            <td class=\"".concat(rankClass, "\">").concat(index + 1, "</td>\n            <td class=\"").concat(rankClass, "\">").concat(notification.actor, "</td>\n            <td class=\"").concat(rankClass, "\">").concat(notification.totalQuantity, "</td>\n            <td class=\"").concat(rankClass, "\">\n                ").concat(rewardImage ? "<img src=\"img/".concat(rewardImage, "\" width=\"32\">") : '', "\n            </td>\n        ");
         tbody.appendChild(row);
     });
 }
