@@ -522,6 +522,132 @@ const notifications: any[] = [
         "updatedAt": "2024-08-20T15:05:55.360Z",
         "__v": 0,
         "read": true
+    },
+    {
+        "_id": "66c4e151addbec9d2a8f693e",
+        "category": "inventory",
+        "actor": "62377fccf4380b82f49d13e0",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62377fccf4380b82f49d13e0.use_tool.sawmill",
+        "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/lwssukbpqvyirdnnuleo",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "data": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T18:32:49.621Z",
+        "updatedAt": "2024-08-20T18:32:49.621Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c4e13eaddbec9d2a8f5dee",
+        "category": "inventory",
+        "actor": "62377fccf4380b82f49d13e0",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62377fccf4380b82f49d13e0.use_tool.sawmill",
+        "text": "Roots used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/lwssukbpqvyirdnnuleo",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "data": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-20T18:32:30.695Z",
+        "updatedAt": "2024-08-20T18:32:30.695Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c4e134addbec9d2a8f56c6",
+        "category": "inventory",
+        "actor": "62377fccf4380b82f49d13e0",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62377fccf4380b82f49d13e0.use_tool.sawmill",
+        "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/lwssukbpqvyirdnnuleo",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "data": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T18:32:20.478Z",
+        "updatedAt": "2024-08-20T18:32:20.478Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c4e11eaddbec9d2a8f4a6c",
+        "category": "inventory",
+        "actor": "62377fccf4380b82f49d13e0",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62377fccf4380b82f49d13e0.use_tool.sawmill",
+        "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/lwssukbpqvyirdnnuleo",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "data": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T18:31:58.638Z",
+        "updatedAt": "2024-08-20T18:31:58.638Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c4e119addbec9d2a8f4441",
+        "category": "inventory",
+        "actor": "62377fccf4380b82f49d13e0",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62377fccf4380b82f49d13e0.use_tool.sawmill",
+        "text": "Roots used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/lwssukbpqvyirdnnuleo",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "data": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-20T18:31:53.744Z",
+        "updatedAt": "2024-08-20T18:31:53.744Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c4e114addbec9d2a8f3ef6",
+        "category": "inventory",
+        "actor": "62377fccf4380b82f49d13e0",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62377fccf4380b82f49d13e0.use_tool.sawmill",
+        "text": "Roots used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/lwssukbpqvyirdnnuleo",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "data": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-20T18:31:48.415Z",
+        "updatedAt": "2024-08-20T18:31:48.415Z",
+        "__v": 0,
+        "read": false
     }
 ];
 // Définition de l'interface Notification
