@@ -2239,6 +2239,509 @@ const notifications: any[] = [
         "updatedAt": "2024-08-20T22:23:11.965Z",
         "__v": 0,
         "read": false
+    },{
+        "_id": "66c59d0863c8b841ccdcbaab",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:44.703Z",
+        "updatedAt": "2024-08-21T07:53:44.703Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59d0663c8b841ccdcb930",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:42.850Z",
+        "updatedAt": "2024-08-21T07:53:42.850Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59d0563c8b841ccdcb7e7",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:41.244Z",
+        "updatedAt": "2024-08-21T07:53:41.244Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59d0263c8b841ccdcb69b",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:38.813Z",
+        "updatedAt": "2024-08-21T07:53:38.813Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59d0063c8b841ccdcb54f",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:36.919Z",
+        "updatedAt": "2024-08-21T07:53:36.919Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cff63c8b841ccdcb406",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:35.466Z",
+        "updatedAt": "2024-08-21T07:53:35.466Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cfd63c8b841ccdcb28d",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:33.345Z",
+        "updatedAt": "2024-08-21T07:53:33.345Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cfb63c8b841ccdcb141",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:31.523Z",
+        "updatedAt": "2024-08-21T07:53:31.523Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cf963c8b841ccdcaff8",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:29.786Z",
+        "updatedAt": "2024-08-21T07:53:29.786Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cf763c8b841ccdcaeac",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:27.805Z",
+        "updatedAt": "2024-08-21T07:53:27.805Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cf563c8b841ccdcad63",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:25.974Z",
+        "updatedAt": "2024-08-21T07:53:25.974Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cf463c8b841ccdcac17",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:24.517Z",
+        "updatedAt": "2024-08-21T07:53:24.517Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cd163c8b841ccdca699",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:49.334Z",
+        "updatedAt": "2024-08-21T07:52:49.334Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59ccf63c8b841ccdca525",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:47.622Z",
+        "updatedAt": "2024-08-21T07:52:47.622Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cce63c8b841ccdca3ae",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:46.053Z",
+        "updatedAt": "2024-08-21T07:52:46.053Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59ccc63c8b841ccdca23a",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:44.083Z",
+        "updatedAt": "2024-08-21T07:52:44.083Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cca63c8b841ccdca0c3",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:42.310Z",
+        "updatedAt": "2024-08-21T07:52:42.310Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cc863c8b841ccdc9f49",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:40.865Z",
+        "updatedAt": "2024-08-21T07:52:40.865Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cc663c8b841ccdc9dd3",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:38.979Z",
+        "updatedAt": "2024-08-21T07:52:38.979Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cc563c8b841ccdc9c5c",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:37.538Z",
+        "updatedAt": "2024-08-21T07:52:37.538Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cc363c8b841ccdc9ac0",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:35.514Z",
+        "updatedAt": "2024-08-21T07:52:35.514Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cc163c8b841ccdc991c",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:33.431Z",
+        "updatedAt": "2024-08-21T07:52:33.431Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cbf63c8b841ccdc977b",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:31.656Z",
+        "updatedAt": "2024-08-21T07:52:31.656Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c59cbd63c8b841ccdc9604",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T07:52:29.941Z",
+        "updatedAt": "2024-08-21T07:52:29.941Z",
+        "__v": 0,
+        "read": false
     }];
 // Définition de l'interface Notification
 interface Notification {
