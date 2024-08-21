@@ -2740,6 +2740,469 @@ var notifications = [
         "updatedAt": "2024-08-21T07:52:29.941Z",
         "__v": 0,
         "read": false
+    },
+    {
+        "_id": "66c5ec4855ca2290ac6aa95a",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:52.688Z",
+        "updatedAt": "2024-08-21T13:31:52.688Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4655ca2290ac6aa811",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:50.821Z",
+        "updatedAt": "2024-08-21T13:31:50.821Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4455ca2290ac6aa6c0",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:48.725Z",
+        "updatedAt": "2024-08-21T13:31:48.725Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4255ca2290ac6aa46d",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:46.454Z",
+        "updatedAt": "2024-08-21T13:31:46.454Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec3f55ca2290ac6aa2c8",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:43.901Z",
+        "updatedAt": "2024-08-21T13:31:43.901Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ddcad106b7db1f489013",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:30:02.080Z",
+        "updatedAt": "2024-08-21T12:30:02.080Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ddcad106b7db1f488f8e",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:30:02.032Z",
+        "updatedAt": "2024-08-21T12:30:02.032Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ddc9d106b7db1f488f36",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:30:01.979Z",
+        "updatedAt": "2024-08-21T12:30:01.979Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5dd15d106b7db1f48498f",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:27:01.596Z",
+        "updatedAt": "2024-08-21T12:27:01.596Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5daf9d106b7db1f474ce9",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:18:01.770Z",
+        "updatedAt": "2024-08-21T12:18:01.770Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5daf9d106b7db1f474bdf",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:18:01.664Z",
+        "updatedAt": "2024-08-21T12:18:01.664Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5b8e7f46b1e22cc8a4fc9",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:39.855Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8e4f46b1e22cc8a4b9c",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:36.922Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8e2f46b1e22cc8a45d7",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 7 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 7
+        },
+        "createdAt": "2024-08-21T09:52:34.173Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8e0f46b1e22cc8a440b",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 5 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 5
+        },
+        "createdAt": "2024-08-21T09:52:32.034Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8ddf46b1e22cc8a4252",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 7 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 7
+        },
+        "createdAt": "2024-08-21T09:52:29.354Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8dbf46b1e22cc8a40cf",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:27.709Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8d7f46b1e22cc8a3ca0",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 5 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 5
+        },
+        "createdAt": "2024-08-21T09:52:23.026Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8d4f46b1e22cc8a3923",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:20.408Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b2e5ac37518b9fa68305",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:27:01.585Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b2e5ac37518b9fa68280",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:27:01.537Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b17dac37518b9fa61733",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:21:01.666Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5ae71ac37518b9fa440c3",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:08:01.390Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59ebe63c8b841ccdd00f0",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T08:01:02.162Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
     }
 ];
 // Définir les timestamps fournis (en secondes) et les convertir en millisecondes
