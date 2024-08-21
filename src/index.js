@@ -3786,8 +3786,3639 @@ var notifications = [
         "updatedAt": "2024-08-21T13:55:54.003Z",
         "__v": 0,
         "read": false
+    },
+    {
+        "_id": "66c60bf755ca2290ac774f30",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:47:03.790Z",
+        "updatedAt": "2024-08-21T15:47:03.790Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bf655ca2290ac774d95",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:47:02.040Z",
+        "updatedAt": "2024-08-21T15:47:02.040Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bf455ca2290ac774c30",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:47:00.142Z",
+        "updatedAt": "2024-08-21T15:47:00.142Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bf255ca2290ac774ad7",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:58.621Z",
+        "updatedAt": "2024-08-21T15:46:58.621Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bf055ca2290ac77498e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:56.635Z",
+        "updatedAt": "2024-08-21T15:46:56.635Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bee55ca2290ac77482a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:54.934Z",
+        "updatedAt": "2024-08-21T15:46:54.934Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bed55ca2290ac7746d0",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:53.484Z",
+        "updatedAt": "2024-08-21T15:46:53.484Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60beb55ca2290ac77455f",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:51.809Z",
+        "updatedAt": "2024-08-21T15:46:51.809Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60be955ca2290ac77437c",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:49.861Z",
+        "updatedAt": "2024-08-21T15:46:49.861Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60be855ca2290ac7741f6",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:48.082Z",
+        "updatedAt": "2024-08-21T15:46:48.082Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60be655ca2290ac773fdd",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:46.460Z",
+        "updatedAt": "2024-08-21T15:46:46.460Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60be455ca2290ac773df1",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:44.902Z",
+        "updatedAt": "2024-08-21T15:46:44.902Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60be255ca2290ac773c0f",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:42.892Z",
+        "updatedAt": "2024-08-21T15:46:42.892Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60be155ca2290ac773ac4",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:41.151Z",
+        "updatedAt": "2024-08-21T15:46:41.151Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bdf55ca2290ac773976",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:39.842Z",
+        "updatedAt": "2024-08-21T15:46:39.842Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bdd55ca2290ac7737c9",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:37.863Z",
+        "updatedAt": "2024-08-21T15:46:37.863Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bdb55ca2290ac773580",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:35.194Z",
+        "updatedAt": "2024-08-21T15:46:35.194Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bd955ca2290ac77332e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:33.391Z",
+        "updatedAt": "2024-08-21T15:46:33.391Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bd755ca2290ac7731de",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:31.432Z",
+        "updatedAt": "2024-08-21T15:46:31.432Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bd555ca2290ac773093",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:29.686Z",
+        "updatedAt": "2024-08-21T15:46:29.686Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bd455ca2290ac772f48",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:28.273Z",
+        "updatedAt": "2024-08-21T15:46:28.273Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bd255ca2290ac772cf6",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:26.449Z",
+        "updatedAt": "2024-08-21T15:46:26.449Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bd055ca2290ac772ba6",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:24.486Z",
+        "updatedAt": "2024-08-21T15:46:24.486Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bce55ca2290ac772979",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:22.789Z",
+        "updatedAt": "2024-08-21T15:46:22.789Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bcd55ca2290ac77282c",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:21.037Z",
+        "updatedAt": "2024-08-21T15:46:21.037Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bcb55ca2290ac7726e1",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:19.583Z",
+        "updatedAt": "2024-08-21T15:46:19.583Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bc955ca2290ac77256b",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:17.700Z",
+        "updatedAt": "2024-08-21T15:46:17.700Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bc855ca2290ac772422",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:16.007Z",
+        "updatedAt": "2024-08-21T15:46:16.007Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bc655ca2290ac7722c8",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:14.251Z",
+        "updatedAt": "2024-08-21T15:46:14.251Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bc455ca2290ac7720fe",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:12.749Z",
+        "updatedAt": "2024-08-21T15:46:12.749Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bc255ca2290ac771fb5",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:10.917Z",
+        "updatedAt": "2024-08-21T15:46:10.917Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bc155ca2290ac771e6c",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:09.289Z",
+        "updatedAt": "2024-08-21T15:46:09.289Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bbf55ca2290ac771d1e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:07.638Z",
+        "updatedAt": "2024-08-21T15:46:07.638Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bbe55ca2290ac771bd5",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:06.230Z",
+        "updatedAt": "2024-08-21T15:46:06.230Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bbc55ca2290ac771a89",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:04.348Z",
+        "updatedAt": "2024-08-21T15:46:04.348Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bba55ca2290ac77191d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:02.692Z",
+        "updatedAt": "2024-08-21T15:46:02.692Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bb855ca2290ac7717a2",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:46:00.858Z",
+        "updatedAt": "2024-08-21T15:46:00.858Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60bb755ca2290ac771659",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:59.387Z",
+        "updatedAt": "2024-08-21T15:45:59.387Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60baa55ca2290ac771351",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:46.147Z",
+        "updatedAt": "2024-08-21T15:45:46.147Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60ba855ca2290ac771208",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:44.338Z",
+        "updatedAt": "2024-08-21T15:45:44.338Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60ba655ca2290ac771047",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:42.712Z",
+        "updatedAt": "2024-08-21T15:45:42.712Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60ba555ca2290ac770ef9",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:41.267Z",
+        "updatedAt": "2024-08-21T15:45:41.267Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60ba355ca2290ac770db0",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:39.241Z",
+        "updatedAt": "2024-08-21T15:45:39.241Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60ba155ca2290ac770c67",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:37.594Z",
+        "updatedAt": "2024-08-21T15:45:37.594Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9f55ca2290ac770afc",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:35.987Z",
+        "updatedAt": "2024-08-21T15:45:35.987Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9e55ca2290ac770986",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:34.301Z",
+        "updatedAt": "2024-08-21T15:45:34.301Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9c55ca2290ac77083a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:32.368Z",
+        "updatedAt": "2024-08-21T15:45:32.368Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9a55ca2290ac7706c4",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:30.637Z",
+        "updatedAt": "2024-08-21T15:45:30.637Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9955ca2290ac77057b",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:29.116Z",
+        "updatedAt": "2024-08-21T15:45:29.116Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9755ca2290ac770432",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:27.060Z",
+        "updatedAt": "2024-08-21T15:45:27.060Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9555ca2290ac77026d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:25.292Z",
+        "updatedAt": "2024-08-21T15:45:25.292Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9355ca2290ac770123",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:23.686Z",
+        "updatedAt": "2024-08-21T15:45:23.686Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9355ca2290ac76ffd8",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:23.098Z",
+        "updatedAt": "2024-08-21T15:45:23.098Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b9055ca2290ac76fe80",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:20.482Z",
+        "updatedAt": "2024-08-21T15:45:20.482Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8e55ca2290ac76fd37",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:18.764Z",
+        "updatedAt": "2024-08-21T15:45:18.764Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8d55ca2290ac76fbcb",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:17.190Z",
+        "updatedAt": "2024-08-21T15:45:17.190Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8b55ca2290ac76fa50",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:15.027Z",
+        "updatedAt": "2024-08-21T15:45:15.027Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8955ca2290ac76f8e2",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:13.107Z",
+        "updatedAt": "2024-08-21T15:45:13.107Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8755ca2290ac76f78c",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:11.535Z",
+        "updatedAt": "2024-08-21T15:45:11.535Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8455ca2290ac76f62b",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:08.212Z",
+        "updatedAt": "2024-08-21T15:45:08.212Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8255ca2290ac76f4d8",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:06.718Z",
+        "updatedAt": "2024-08-21T15:45:06.718Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b8055ca2290ac76f361",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:04.727Z",
+        "updatedAt": "2024-08-21T15:45:04.727Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7f55ca2290ac76f218",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:03.603Z",
+        "updatedAt": "2024-08-21T15:45:03.603Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7d55ca2290ac76efa0",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:45:01.330Z",
+        "updatedAt": "2024-08-21T15:45:01.330Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7b55ca2290ac76ee33",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:59.478Z",
+        "updatedAt": "2024-08-21T15:44:59.478Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7955ca2290ac76ece3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:57.828Z",
+        "updatedAt": "2024-08-21T15:44:57.828Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7855ca2290ac76eb79",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:56.144Z",
+        "updatedAt": "2024-08-21T15:44:56.144Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7655ca2290ac76e9fe",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:54.243Z",
+        "updatedAt": "2024-08-21T15:44:54.243Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7455ca2290ac76e83d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:52.597Z",
+        "updatedAt": "2024-08-21T15:44:52.597Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7255ca2290ac76e677",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:50.860Z",
+        "updatedAt": "2024-08-21T15:44:50.860Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b7155ca2290ac76e52d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:49.304Z",
+        "updatedAt": "2024-08-21T15:44:49.304Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6f55ca2290ac76e1b3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:47.589Z",
+        "updatedAt": "2024-08-21T15:44:47.589Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6d55ca2290ac76de25",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:45.804Z",
+        "updatedAt": "2024-08-21T15:44:45.804Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6b55ca2290ac76daba",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:43.996Z",
+        "updatedAt": "2024-08-21T15:44:43.996Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6a55ca2290ac76d971",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:42.668Z",
+        "updatedAt": "2024-08-21T15:44:42.668Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6855ca2290ac76d801",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:40.506Z",
+        "updatedAt": "2024-08-21T15:44:40.506Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6655ca2290ac76d68b",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:38.815Z",
+        "updatedAt": "2024-08-21T15:44:38.815Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6555ca2290ac76d514",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:37.129Z",
+        "updatedAt": "2024-08-21T15:44:37.129Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6355ca2290ac76d3c9",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:35.678Z",
+        "updatedAt": "2024-08-21T15:44:35.678Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6155ca2290ac76d26f",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:33.803Z",
+        "updatedAt": "2024-08-21T15:44:33.803Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b6055ca2290ac76d07e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:32.092Z",
+        "updatedAt": "2024-08-21T15:44:32.092Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b5e55ca2290ac76cf35",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:30.413Z",
+        "updatedAt": "2024-08-21T15:44:30.413Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b5c55ca2290ac76cdec",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:28.964Z",
+        "updatedAt": "2024-08-21T15:44:28.964Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4b55ca2290ac76c8e2",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:11.453Z",
+        "updatedAt": "2024-08-21T15:44:11.453Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4955ca2290ac76c799",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:09.556Z",
+        "updatedAt": "2024-08-21T15:44:09.556Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4755ca2290ac76c5b0",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:07.448Z",
+        "updatedAt": "2024-08-21T15:44:07.448Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4555ca2290ac76c441",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:05.870Z",
+        "updatedAt": "2024-08-21T15:44:05.870Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4355ca2290ac76c22f",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:03.912Z",
+        "updatedAt": "2024-08-21T15:44:03.912Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4255ca2290ac76c0e4",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:02.184Z",
+        "updatedAt": "2024-08-21T15:44:02.184Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b4055ca2290ac76bf6e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:44:00.572Z",
+        "updatedAt": "2024-08-21T15:44:00.572Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3e55ca2290ac76be25",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:58.666Z",
+        "updatedAt": "2024-08-21T15:43:58.666Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3c55ca2290ac76bcdc",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:56.908Z",
+        "updatedAt": "2024-08-21T15:43:56.908Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3b55ca2290ac76bb93",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:55.255Z",
+        "updatedAt": "2024-08-21T15:43:55.255Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3955ca2290ac76ba4a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:53.821Z",
+        "updatedAt": "2024-08-21T15:43:53.821Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3755ca2290ac76b901",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:51.987Z",
+        "updatedAt": "2024-08-21T15:43:51.987Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3655ca2290ac76b7b3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:50.370Z",
+        "updatedAt": "2024-08-21T15:43:50.370Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3455ca2290ac76b66a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:48.744Z",
+        "updatedAt": "2024-08-21T15:43:48.744Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b3355ca2290ac76b485",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:47.241Z",
+        "updatedAt": "2024-08-21T15:43:47.241Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b1455ca2290ac76abb4",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:16.811Z",
+        "updatedAt": "2024-08-21T15:43:16.811Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b1355ca2290ac76a9ac",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:15.119Z",
+        "updatedAt": "2024-08-21T15:43:15.119Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b1155ca2290ac76a798",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:13.621Z",
+        "updatedAt": "2024-08-21T15:43:13.621Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0f55ca2290ac76a640",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:11.738Z",
+        "updatedAt": "2024-08-21T15:43:11.738Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0e55ca2290ac76a4f2",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:10.005Z",
+        "updatedAt": "2024-08-21T15:43:10.005Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0c55ca2290ac76a3a9",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:08.350Z",
+        "updatedAt": "2024-08-21T15:43:08.350Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0a55ca2290ac76a22a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:06.872Z",
+        "updatedAt": "2024-08-21T15:43:06.872Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0855ca2290ac76a0d4",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:04.978Z",
+        "updatedAt": "2024-08-21T15:43:04.978Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0755ca2290ac769f1b",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:03.365Z",
+        "updatedAt": "2024-08-21T15:43:03.365Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0555ca2290ac769dd1",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:01.675Z",
+        "updatedAt": "2024-08-21T15:43:01.675Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0455ca2290ac769c88",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:43:00.210Z",
+        "updatedAt": "2024-08-21T15:43:00.210Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0255ca2290ac769b3f",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:58.481Z",
+        "updatedAt": "2024-08-21T15:42:58.481Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60b0055ca2290ac7699f1",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:56.792Z",
+        "updatedAt": "2024-08-21T15:42:56.792Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60aff55ca2290ac76989b",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:55.012Z",
+        "updatedAt": "2024-08-21T15:42:55.012Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60afd55ca2290ac76974d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:53.447Z",
+        "updatedAt": "2024-08-21T15:42:53.447Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60afb55ca2290ac7695d0",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:51.640Z",
+        "updatedAt": "2024-08-21T15:42:51.640Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60af955ca2290ac76942d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:49.607Z",
+        "updatedAt": "2024-08-21T15:42:49.607Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c60af655ca2290ac7692b5",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T15:42:46.459Z",
+        "updatedAt": "2024-08-21T15:42:46.459Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5fc0555ca2290ac6fb5ca",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T14:39:01.050Z",
+        "updatedAt": "2024-08-21T14:39:01.050Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28f55ca2290ac6bc5ea",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:39.276Z",
+        "updatedAt": "2024-08-21T13:58:39.276Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28d55ca2290ac6bc4a1",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:37.659Z",
+        "updatedAt": "2024-08-21T13:58:37.659Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28b55ca2290ac6bc358",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:35.563Z",
+        "updatedAt": "2024-08-21T13:58:35.563Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28955ca2290ac6bc20a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:33.496Z",
+        "updatedAt": "2024-08-21T13:58:33.496Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28755ca2290ac6bc0c1",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:31.938Z",
+        "updatedAt": "2024-08-21T13:58:31.938Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28555ca2290ac6bbf73",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:29.881Z",
+        "updatedAt": "2024-08-21T13:58:29.881Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28455ca2290ac6bbe2a",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:28.002Z",
+        "updatedAt": "2024-08-21T13:58:28.002Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28255ca2290ac6bbcc3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:26.375Z",
+        "updatedAt": "2024-08-21T13:58:26.375Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f28055ca2290ac6bbb48",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:24.197Z",
+        "updatedAt": "2024-08-21T13:58:24.197Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f27e55ca2290ac6bb9d2",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:22.365Z",
+        "updatedAt": "2024-08-21T13:58:22.365Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f27c55ca2290ac6bb889",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:20.833Z",
+        "updatedAt": "2024-08-21T13:58:20.833Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f27655ca2290ac6bb739",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:14.571Z",
+        "updatedAt": "2024-08-21T13:58:14.571Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f27455ca2290ac6bb5f0",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:12.921Z",
+        "updatedAt": "2024-08-21T13:58:12.921Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f27255ca2290ac6bb4a7",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:10.749Z",
+        "updatedAt": "2024-08-21T13:58:10.749Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f27055ca2290ac6bb35e",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:58:08.810Z",
+        "updatedAt": "2024-08-21T13:58:08.810Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f26f55ca2290ac6bb215",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:58:07.229Z",
+        "updatedAt": "2024-08-21T13:58:07.229Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f20855ca2290ac6ba9d8",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:24.001Z",
+        "updatedAt": "2024-08-21T13:56:24.001Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f20555ca2290ac6ba837",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:21.921Z",
+        "updatedAt": "2024-08-21T13:56:21.921Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f20455ca2290ac6ba6c3",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:20.150Z",
+        "updatedAt": "2024-08-21T13:56:20.150Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1f955ca2290ac6ba3c4",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:09.721Z",
+        "updatedAt": "2024-08-21T13:56:09.721Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1f755ca2290ac6ba250",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:07.714Z",
+        "updatedAt": "2024-08-21T13:56:07.714Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1f555ca2290ac6ba0d6",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:05.252Z",
+        "updatedAt": "2024-08-21T13:56:05.252Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1f255ca2290ac6b9f62",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:02.798Z",
+        "updatedAt": "2024-08-21T13:56:02.798Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1f055ca2290ac6b9dcb",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:56:00.454Z",
+        "updatedAt": "2024-08-21T13:56:00.454Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1ed55ca2290ac6b9c24",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:55:57.951Z",
+        "updatedAt": "2024-08-21T13:55:57.951Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1eb55ca2290ac6b9a83",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:55:55.919Z",
+        "updatedAt": "2024-08-21T13:55:55.919Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5f1ea55ca2290ac6b990d",
+        "category": "inventory",
+        "actor": "666b37db8feed91d344872a5",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "666b37db8feed91d344872a5.use_tool.sawmill",
+        "text": "Hasishi used your sawmill to cut. You received 30 wood_plank.",
+        "image": "profile/blswpffl7qtselrtax6a",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 30
+        },
+        "createdAt": "2024-08-21T13:55:54.003Z",
+        "updatedAt": "2024-08-21T13:55:54.003Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4855ca2290ac6aa95a",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:52.688Z",
+        "updatedAt": "2024-08-21T13:31:52.688Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4655ca2290ac6aa811",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:50.821Z",
+        "updatedAt": "2024-08-21T13:31:50.821Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4455ca2290ac6aa6c0",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:48.725Z",
+        "updatedAt": "2024-08-21T13:31:48.725Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec4255ca2290ac6aa46d",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:46.454Z",
+        "updatedAt": "2024-08-21T13:31:46.454Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ec3f55ca2290ac6aa2c8",
+        "category": "inventory",
+        "actor": "62e6973026264177721d740f",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "62e6973026264177721d740f.use_tool.sawmill",
+        "text": "Engineer1 used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/mrsvgxdu9em2wpcyusew",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T13:31:43.901Z",
+        "updatedAt": "2024-08-21T13:31:43.901Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ddcad106b7db1f489013",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:30:02.080Z",
+        "updatedAt": "2024-08-21T12:30:02.080Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ddcad106b7db1f488f8e",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:30:02.032Z",
+        "updatedAt": "2024-08-21T12:30:02.032Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5ddc9d106b7db1f488f36",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:30:01.979Z",
+        "updatedAt": "2024-08-21T12:30:01.979Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5dd15d106b7db1f48498f",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:27:01.596Z",
+        "updatedAt": "2024-08-21T12:27:01.596Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5daf9d106b7db1f474ce9",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:18:01.770Z",
+        "updatedAt": "2024-08-21T12:18:01.770Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5daf9d106b7db1f474bdf",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T12:18:01.664Z",
+        "updatedAt": "2024-08-21T12:18:01.664Z",
+        "__v": 0,
+        "read": false
+    },
+    {
+        "_id": "66c5b8e7f46b1e22cc8a4fc9",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:39.855Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8e4f46b1e22cc8a4b9c",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:36.922Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8e2f46b1e22cc8a45d7",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 7 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 7
+        },
+        "createdAt": "2024-08-21T09:52:34.173Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8e0f46b1e22cc8a440b",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 5 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 5
+        },
+        "createdAt": "2024-08-21T09:52:32.034Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8ddf46b1e22cc8a4252",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 7 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 7
+        },
+        "createdAt": "2024-08-21T09:52:29.354Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8dbf46b1e22cc8a40cf",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:27.709Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8d7f46b1e22cc8a3ca0",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 5 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 5
+        },
+        "createdAt": "2024-08-21T09:52:23.026Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b8d4f46b1e22cc8a3923",
+        "category": "inventory",
+        "actor": "65ec00336ba3472291aba6a3",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "65ec00336ba3472291aba6a3.cut_tree",
+        "text": "mathematician cut a tree in your land with a Gold axe. You received 4 wood.",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood",
+            "quantity": 4
+        },
+        "createdAt": "2024-08-21T09:52:20.408Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b2e5ac37518b9fa68305",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:27:01.585Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b2e5ac37518b9fa68280",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:27:01.537Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5b17dac37518b9fa61733",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:21:01.666Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c5ae71ac37518b9fa440c3",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "Your baking session has been completed successfully. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T09:08:01.390Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59ebe63c8b841ccdd00f0",
+        "category": "inventory",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "bake.done",
+        "text": "A group of players has successfully completed a baking session at your undefined. You have received 10 bread as your share. Well done!",
+        "datas": {
+            "category": "items",
+            "slug": "bread",
+            "quantity": 10
+        },
+        "createdAt": "2024-08-21T08:01:02.162Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59d0863c8b841ccdcbaab",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:44.703Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59d0663c8b841ccdcb930",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:42.850Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59d0563c8b841ccdcb7e7",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:41.244Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59d0263c8b841ccdcb69b",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:38.813Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59d0063c8b841ccdcb54f",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:36.919Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59cff63c8b841ccdcb406",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:35.466Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
+    },
+    {
+        "_id": "66c59cfd63c8b841ccdcb28d",
+        "category": "inventory",
+        "actor": "650e09016d692e3b471727fc",
+        "receivers": [
+            "64beca32576bd648dde87129"
+        ],
+        "slug": "650e09016d692e3b471727fc.use_tool.sawmill",
+        "text": "Scrutor used your sawmill to cut. You received 3 wood_plank.",
+        "image": "profile/gb6fxadwwt521brekc9f",
+        "redirection": "/Corsica/630d3eef91e7dddf3be35d28",
+        "datas": {
+            "category": "items",
+            "slug": "wood_plank",
+            "quantity": 3
+        },
+        "createdAt": "2024-08-21T07:53:33.345Z",
+        "updatedAt": "2024-08-21T11:43:47.882Z",
+        "__v": 0,
+        "read": true
     }
-];
+]; // Définition de l'interface Notification
 // Définir les timestamps fournis (en secondes) et les convertir en millisecondes
 var startTimestamp = 1724171429 * 1000; // Début de la période
 var endTimestamp = 1724272229 * 1000; // Fin de la période
@@ -3796,11 +7427,19 @@ function extractActor(text) {
     var words = text.split(' ');
     return words[0];
 }
-// Fonction pour filtrer les notifications par date en utilisant les timestamps
+// Fonction pour filtrer les notifications par date en utilisant les timestamps, et en éliminant les doublons
 function filterNotificationsByDate(notifications, startTimestamp, endTimestamp) {
+    var uniqueCreatedAt = {};
     return notifications.filter(function (notification) {
         var createdAtTimestamp = new Date(notification.createdAt).getTime();
-        return createdAtTimestamp >= startTimestamp && createdAtTimestamp < endTimestamp;
+        // Vérifier que la notification est dans la plage de temps et n'a pas déjà été traitée
+        if (createdAtTimestamp >= startTimestamp && createdAtTimestamp < endTimestamp) {
+            if (!uniqueCreatedAt[notification.createdAt]) {
+                uniqueCreatedAt[notification.createdAt] = true;
+                return true;
+            }
+        }
+        return false;
     });
 }
 // Fonction pour agréger les notifications par 'wood_plank'
